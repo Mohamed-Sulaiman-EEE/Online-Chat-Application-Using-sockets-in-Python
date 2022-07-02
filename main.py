@@ -1,3 +1,4 @@
+#version 2
 #............imports...........................
 import threading
 import socket
